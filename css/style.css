@@ -1,0 +1,74 @@
+/* Write CSS code here */
+.name{
+    margin-left: 250px;
+    font-family: cursive;
+    padding: 30px;
+    width: 40px;
+    height: 30px;
+    font-size: 30px;
+    text-align: center;
+    border: 7px solid black;
+    border-radius: 18%;
+}
+
+#images{
+    margin-left: 350px;
+}
+img{
+    margin-left: 80px;
+}
+#container1 h2{
+    color: white;
+    border:20px salmon;
+    background-color: salmon;
+    display: block;
+    text-align: center;
+    block-size: 40px;
+    margin-right: 350px;
+
+/* display: inline; */
+}
+.sam{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:150%;
+    margin-left: 150px;
+    font-weight: bold;
+    color: black;
+   
+    
+}
+.designer{
+    font-size: larger;
+    margin-right: 390px;
+    font-weight: bold;
+    color:grey;
+    text-align: center;
+}
+.horizontal{
+    border:200px salmon;
+    background-color: salmon;
+    display:block;
+    block-size: 20px;
+    margin-right: 350px;
+}
+.featured{
+    color: grey
+}
+.line{
+    color: grey;
+    margin-right: 350px;
+
+}
+.example{
+    color:black;
+    font-weight: bold;
+}
+.line1{
+    margin-left: 350px;
+    margin-right: 350px;
+    
+}
+.nav{
+    margin-left: 350px;
+  
+}
